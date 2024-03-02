@@ -1,1 +1,1 @@
-# pi-power-button
+# Raspberry Pi Shutdown Button (no wake-up function)
